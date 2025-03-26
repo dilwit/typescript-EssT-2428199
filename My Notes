@@ -1,1 +1,14 @@
-
+Ch01
+- About type script
+  - is superset of java script
+  - enforce strong static typing, so that we can catch error compile time
+  - better tooling
+  - more for Human
+  - 
+  - To instal TypeScript
+  - you need node.js (java script runtime) 
+  - and npm (node package manager)
+  - Verify by tsc -v
+- Type script config files and it's attributes
+- How to use java script in combination with type script, use type typescript configs to validate java scripts
+- 
