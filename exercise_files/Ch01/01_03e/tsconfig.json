@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
-        "allowJs": true,
-        "checkJs": true,
+        "allowJs": true, /** this allows .js files to be added to the projects*/
+        "checkJs": true, /** this checks added .js files for compile errors*/
         "outDir": "build",
         "target": "esnext",
         "noEmit": true
