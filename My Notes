@@ -45,4 +45,5 @@ Ch03
 - type of any
   -- this is contracts to what typescript is trying to enforce
 - key word using
+  -- enforced to clean up resources automatically
 
