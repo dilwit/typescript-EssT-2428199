@@ -11,4 +11,8 @@ Ch01
   - Verify by tsc -v
 - Type script config files and it's attributes
 - How to use java script in combination with type script, use type typescript configs to validate java scripts
-- 
+
+Ch02
+- Primitive and build-in types
+- Custom type with interfaces
+- Types using aliases
