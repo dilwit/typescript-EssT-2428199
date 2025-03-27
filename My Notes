@@ -32,4 +32,7 @@ Ch02
   -- function doSomething<T>(myContactDeatils : T) : T { return myContactDeatils;}
   -- function doSomething<T1, T2>(myContactDeatils : T1) : T2 { return myContactDeatils;}
 
+Ch03
+- Combine multiple types 
+
 
