@@ -33,6 +33,16 @@ Ch02
   -- function doSomething<T1, T2>(myContactDeatils : T1) : T2 { return myContactDeatils;}
 
 Ch03
-- Combine multiple types 
-
+- Combine multiple types
+  -- type BrithDate = Date | string
+  -- type Status = "active" | "inactive" => alternative way to Enum
+- Key of operator
+  -- type ContactFields = keyof Contact
+- Type of operator
+  -- 
+- Index access type -> access property of a type
+  -- Contact["name"]
+- type of any
+  -- this is contracts to what typescript is trying to enforce
+- key word using
 
