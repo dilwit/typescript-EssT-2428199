@@ -20,3 +20,7 @@ Ch02
   -- Keyword is type
   -- type ContactName = string
   -- name : ContactName
+- Enums
+  -- enum ContactStatus {Active, InActive}
+  -- status: ContactStatus.Active
+
