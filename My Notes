@@ -23,4 +23,10 @@ Ch02
 - Enums
   -- enum ContactStatus {Active, InActive}
   -- status: ContactStatus.Active
+- Type functions
+  -- Inferred return typed: function doSomething(myContactDeatils) : Contact { return myContactDeatils;}
+  -- Return type specified: function doSomething(myContactDeatils : Contact) : Contact { return myContactDeatils;}
+  -- Function as variable: function doSomething(myContactDeatils : Contact, fuc: (source: Contact) => Contact) : Contact { return myContactDeatils;}
+  -- Method in a interface: interface Contact {id: string, clone(name: string): Contact}
+
 
