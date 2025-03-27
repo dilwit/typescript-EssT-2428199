@@ -15,5 +15,8 @@ Ch01
 Ch02
 - Primitive and build-in types
 - Custom type with interfaces and extending interfaces
--- optional property => brithDate ?: Date;
-- Types using aliases
+  -- optional property => brithDate ?: Date;
+- Types aliases
+  -- Keyword is type
+  -- type ContactName = string
+  -- name : ContactName
