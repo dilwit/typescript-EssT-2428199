@@ -28,5 +28,8 @@ Ch02
   -- Return type specified: function doSomething(myContactDeatils : Contact) : Contact { return myContactDeatils;}
   -- Function as variable: function doSomething(myContactDeatils : Contact, fuc: (source: Contact) => Contact) : Contact { return myContactDeatils;}
   -- Method in a interface: interface Contact {id: string, clone(name: string): Contact}
+- MetaType as Generics
+  -- function doSomething<T>(myContactDeatils : T) : T { return myContactDeatils;}
+  -- function doSomething<T1, T2>(myContactDeatils : T1) : T2 { return myContactDeatils;}
 
 
