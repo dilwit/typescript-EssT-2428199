@@ -44,6 +44,22 @@ Ch03
   -- Contact["name"]
 - type of any
   -- this is contracts to what typescript is trying to enforce
+  -- Record type
 - key word using
   -- enforced to clean up resources automatically
+
+Ch04
+- Record utility type (create a new type by referencing the fields of another type/ extend/ modify existing type)
+  --  Partial type with Record type
+  -- Omit type with Partial type
+  -- Pick type with Partal type
+  -- Required type 
+- Mapped types - Extracting meta-data from existing types
+
+Ch05
+- Decorators
+  -- like annotation in java
+  -- method decorators
+  -- 
+
 
